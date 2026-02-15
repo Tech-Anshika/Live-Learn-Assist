@@ -1,0 +1,5 @@
+path: C:/Users/anshi/OneDrive/Desktop/project/LiveLearnAssist/datasets/synthdata
+train: images/train
+val: images/val
+nc: 3
+names: ['Normal', 'Reversal', 'Corrected']

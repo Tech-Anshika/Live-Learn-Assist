@@ -1,0 +1,14 @@
+ultralytics
+opencv-python-headless
+easyocr
+fastapi
+uvicorn
+python-multipart
+torch --index-url https://download.pytorch.org/whl/cu118
+torchvision --index-url https://download.pytorch.org/whl/cu118
+torchaudio --index-url https://download.pytorch.org/whl/cu118
+numpy<2.0.0
+annotated-types
+pydantic
+starlette
+typing-extensions
