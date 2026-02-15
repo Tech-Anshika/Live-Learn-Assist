@@ -34,25 +34,25 @@ Standard tools (like Google Lens) capture text but often fail to format it for a
 
 ## ✨ Key Features
 
-✅ **Real-Time AR Text Detection**  
+* **Real-Time AR Text Detection**
 Instantly detects and captures text from handwritten notes, textbooks, and screens using a camera feed.
 
-✅ **Dyslexia-Friendly Reading Mode 👓**  
+* **Dyslexia-Friendly Reading Mode 👓**
 A dedicated toggle that transforms captured text with:
 *   High-contrast cream/off-white backgrounds (reduces visual stress).
 *   OpenDyslexic-style spacing and font sizing.
 *   Clearer line separation to prevent "dancing letters."
 
-✅ **"Simplify" Text Engine ✨**  
+* **"Simplify" Text Engine ✨**
 One-tap summarization converting dense paragraphs into easy-to-read bullet points or short, digestible sentences.
 
-✅ **Complex Word Highlighting 🟡**  
+* **Complex Word Highlighting 🟡**
 Automatically identifies long or difficult words (>10 chars). Tapping a highlighted word explains it or suggests a simpler synonym.
 
-✅ **Smart Gallery Import 🖼️**  
+* **Smart Gallery Import 🖼️**
 Allows users to upload existing images/screenshots for the same advanced accessibility processing.
 
-✅ **Live Accessibility Badge**  
+* **Live Accessibility Badge**
 UI indicators confirming when the app is actively processing in accessibility mode.
 
 ---
