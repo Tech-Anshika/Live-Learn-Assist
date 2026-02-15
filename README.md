@@ -134,7 +134,7 @@ Scan the QR code with the **Expo Go** app on your Android/iOS device.
 
 ## 🎥 Demo Video
 
-[Click here to watch the demo video](#) *(Link to be added)*
+[▶️ Watch the Live Demo on Vimeo](https://vimeo.com/1165145984?share=copy&fl=sv&fe=ci)
 
 ---
 
