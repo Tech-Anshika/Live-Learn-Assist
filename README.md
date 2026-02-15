@@ -59,9 +59,9 @@ UI indicators confirming when the app is actively processing in accessibility mo
 
 ## 📸 App Screenshots
 
-| Home Screen | Detection Mode | Dyslexia Mode |
+| Home Screen (Live) | Detection & OCR | Dyslexia Mode |
 |:---:|:---:|:---:|
-| *(Place Screenshot Here)* | *(Place Screenshot Here)* | *(Place Screenshot Here)* |
+| <img src="./docs/screenshots/home_screen.jpeg" width="250" /> | <img src="./docs/screenshots/detection_mode.jpeg" width="250" /> | <img src="./docs/screenshots/dyslexia_mode.jpeg" width="250" /> |
 
 ---
 
